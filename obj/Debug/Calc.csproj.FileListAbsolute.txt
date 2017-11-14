@@ -1,0 +1,9 @@
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.Form1.resources
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+E:\Visual Project\Calc\Calc\bin\Debug\Calc.exe.config
+E:\Visual Project\Calc\Calc\bin\Debug\Calc.exe
+E:\Visual Project\Calc\Calc\bin\Debug\Calc.pdb
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.exe
+E:\Visual Project\Calc\Calc\obj\Debug\Calc.pdb
